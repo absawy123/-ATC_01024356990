@@ -1,4 +1,9 @@
-This is full web application for Event management system , here are what i used in this project :-
+This is full web application for Event management system.
+
+**FrontEnd Repo ⇒ [  https://github.com/absawy123/Events-frontend-Angular](https://github.com/absawy123/Events-frontend-Angular  )**
+
+
+Here are what i used in this project :-
 
 🔧 Backend (.NET 8 Web API)
 ✅ CRUD Operations
